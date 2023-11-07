@@ -1,0 +1,21 @@
+.cabecalho_a{
+    margin-top: 10px;
+    text-decoration: none;
+    color:#304f8c ;
+    font-size: 16px;
+}
+
+.cabecalho__a{
+    border: 1px solid #304f8c;
+    margin-right: 110px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #304f8c;
+    border-radius: 6px;
+    padding: 5px 50px 5px 50px;
+}
+
+.cabecalho__a:hover{
+    background-color: #304f8c;
+    color: #fff;
+}
