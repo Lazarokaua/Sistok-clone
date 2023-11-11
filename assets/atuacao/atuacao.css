@@ -1,0 +1,25 @@
+.atuacao_titulo {
+    font-size: 20px;
+    margin-left: 120px;
+    color: #4c5d73;
+    margin-top: 60px;
+}
+
+.atuacao_titulo__sub {
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+.atuacao_img {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    padding: 60px 50px 0px 0px;
+    margin-left: 300px;
+    margin-top: 60px;
+    height: 120px;
+    width: 200;
+    gap: 200px;
+    color: #4c5d73;
+}

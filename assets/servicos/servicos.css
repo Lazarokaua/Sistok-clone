@@ -1,0 +1,21 @@
+.servico_titulo {
+    font-size: 20px;
+    margin-left: 120px;
+    color: #4c5d73;
+    margin-top: 50px;
+}
+
+.servico_titulo__2 {
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+.servicos_img {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 60px 100px 0px 0px;
+    margin-left: 200px;
+    color: #4c5d73;
+}

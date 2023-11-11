@@ -1,0 +1,48 @@
+.sobre_h2 {
+    font-size: 20px;
+    margin-left: 120px;
+    color: #4c5d73;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+
+.sobre_h2__titulo {
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+
+.menina {
+    display: flex;
+}
+
+.menina_img {
+    width: 300px;
+    margin-left: 60px;
+    margin-right: 40px;
+}
+
+.sobre_p__p {
+    margin-top: 45px;
+    color: #4c5d73;
+}
+
+.feliz {
+    width: 10px;
+    margin-top: 25px;
+}
+
+.sobre__bnt {
+    color: #304f8c;
+    border: 1px solid #304f8c;
+    background-color: white;
+    display: flex;
+    padding: 5px 50px;
+    font-weight: 500;
+    line-height: 20px;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-right: 110px;
+    width: 195px;
+    margin-top: 20px;
+}

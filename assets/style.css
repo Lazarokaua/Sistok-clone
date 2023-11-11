@@ -1,32 +1,72 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 
- @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: 'Rubik', sans-serif;
 }
 
-.logo{
+.logo {
     width: 155px;
     height: 38px;
     display: inline-block;
 }
 
-#conteudo_1{
+#conteudo_1 {
     width: 100vw;
     display: flex;
     align-items: center;
     flex-direction: column;
 }
 
-.subsection_one{
+.subsection_one {
     display: flex;
-    flex-direction: row;
+    padding: 80px;
+    gap: 300px;
 }
 
-.left{
-    border: 2px solid red;
+.left {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+
+}
+
+.titulo {
+
+    font-weight: 400;
+    font-size: 30px;
+    margin-right: 300px;
+}
+
+.titulo_p {
+    color: #4c5d73;
+
+}
+
+.titulo_p__botao {
+    background-color: #304f8c;
+    color: white;
+    width: 210px;
+    height: 37px;
+    box-shadow: none;
+    border: none;
+    border-radius: 6px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.subtopicos__imagens {
+    padding-right: 150px;
+}
+
+.homen {
+    display: flex;
+    justify-content: center;
+    margin: 60px;
 }
