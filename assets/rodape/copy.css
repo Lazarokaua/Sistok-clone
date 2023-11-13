@@ -1,0 +1,15 @@
+.copy{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    gap: 25px;
+}
+
+#copy_titulo{
+    color: #fff;
+    margin-left: 11px;
+}
+
+.card{
+    color: #fff;
+}
